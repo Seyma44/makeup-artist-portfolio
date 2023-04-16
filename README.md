@@ -1,3 +1,15 @@
+# Framer Motion Portfolio
+
+
+https://user-images.githubusercontent.com/3766249/232329401-01f9a28f-c926-498e-b1b9-26d9b7d48589.mp4
+
+
+https://user-images.githubusercontent.com/3766249/232329446-04613819-d161-486b-bdc6-6cb62a16740c.mp4
+
+
+https://user-images.githubusercontent.com/3766249/232329494-71213a6f-abc1-42a4-aea9-e9a501278c6e.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
